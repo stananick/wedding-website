@@ -1,0 +1,19 @@
+### Mac ###
+.DS_Store
+
+### Log files ###
+*.log
+
+### Node ###
+# Logs
+logs
+*.log
+
+### Local Env ###
+dist
+node_modules
+tmp
+assets
+
+### Personal Info ###
+app/form_process.php
